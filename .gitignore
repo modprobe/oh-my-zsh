@@ -8,3 +8,6 @@ custom
 !custom/example.zshcache
 cache/
 *.zwc
+!cache/.gitkeep
+log/
+!log/.gitkeep
